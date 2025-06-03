@@ -1,0 +1,32 @@
+/* Add your existing styles here */
+
+/* Style for the table */
+table {
+    width: 80%; /* Adjust width as needed */
+    margin: 20px auto; /* Center the table */
+    border-collapse: collapse;
+}
+
+/* Style for table headers */
+th {
+    background-color: #000; /* Black background */
+    color: white; /* White text color */
+    font-weight: bold; /* Bold text */
+    text-align: center; /* Center text */
+    padding: 10px; /* Adjust padding as needed */
+}
+
+/* Style for table cells */
+td {
+    padding: 8px; /* Adjust padding as needed */
+}
+
+
+
+.heading {
+    font-weight: bold; /* Bold text */
+    margin-bottom: 10px; /* Adjust margin as needed */
+}
+
+
+/* Add any additional styles as needed */
